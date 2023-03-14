@@ -39,6 +39,7 @@ NUMBER_GUESSING_GAME(){
 
   NUMBER_OF_GUESSES=1
 
+ # -- the following code used help from Youtuber Maria Camila Barona Martinez
   while read GUESS
   do 
     #if guess is not a number
